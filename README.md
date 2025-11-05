@@ -179,5 +179,4 @@ All rights not expressly waived remain fully reserved by the DPG creator.
 
 ---
 
-**End of Agreement**  
-*(DPG Format Usage & Protection Agreement v1.0 — English Edition)*  
+
