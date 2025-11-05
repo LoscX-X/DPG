@@ -1,4 +1,4 @@
-# 📜 DPG Format Usage & Protection Agreement v1.0
+#  DPG Format Usage & Protection Agreement v1.0
 
 This Agreement governs the legal status, permitted use, and protective rights associated with any digital artwork distributed under the DPG format (**Drawing Protected Graphic**).
 
